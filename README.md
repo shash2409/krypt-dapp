@@ -3,3 +3,6 @@ A responsive design Blockchain-Dapp which enables sending eth through the blockc
 
 ### Home
 ![home](./screenshots/krypt-home.png)
+
+### Transactions as GIFs
+![gifs](./screenshots/krypt-gif.png)
